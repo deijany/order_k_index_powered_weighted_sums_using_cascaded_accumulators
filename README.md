@@ -10,8 +10,8 @@ This repository contains the code and Jupyter notebook accompanying the paper:
 
 ## Repository locations
 
-Primary repository (GitLab): https://gitlab.liu.se/spl/SPL-44561-2025
-Mirror repository (GitHub): https://github.com/deijany/order_k_index_powered_weighted_sums_using_cascaded_accumulators
+- **Primary (GitLab):** https://gitlab.liu.se/spl/SPL-44561-2025  
+- **Mirror (GitHub):** https://github.com/deijany/order_k_index_powered_weighted_sums_using_cascaded_accumulators
 ---
 
 ## Run the notebook in Colab
