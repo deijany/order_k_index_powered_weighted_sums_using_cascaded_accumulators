@@ -8,6 +8,10 @@ This repository contains the code and Jupyter notebook accompanying the paper:
 > Deijany Rodriguez Linares, Oksana Moryakova, and Håkan Johansson  
 > Submitted to IEEE Signal Processing Letters, 2025.  
 
+## Repository locations
+
+Primary repository (GitLab): https://gitlab.liu.se/spl/SPL-44561-2025
+Mirror repository (GitHub): https://github.com/deijany/order_k_index_powered_weighted_sums_using_cascaded_accumulators
 ---
 
 ## Run the notebook in Colab
@@ -30,6 +34,7 @@ If you use this code in your research, please cite our paper:
 @article{Rodriguez2025accumulators,
   title   = {Efficient Computation of Order--K Index-Powered Weighted Sums Using Cascaded Accumulators},
   author  = {Deijany Rodriguez Linares and Oksana Moryakova and Håkan Johansson},
-  journal = {arXiv preprint .....},  
-  year    = {2025}
+  journal = {IEEE Signal Processing Letters},
+  year    = {2025},
+  note    = {accepted for publication}
 }
