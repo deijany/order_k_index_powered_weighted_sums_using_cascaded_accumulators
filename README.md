@@ -36,5 +36,5 @@ If you use this code in your research, please cite our paper:
   author  = {Deijany Rodriguez Linares and Oksana Moryakova and Håkan Johansson},
   journal = {IEEE Signal Processing Letters},
   year    = {2025},
-  note    = {accepted for publication}
+  note    = {accepted pending minor revisions}
 }
