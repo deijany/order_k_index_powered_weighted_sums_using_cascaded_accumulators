@@ -23,7 +23,7 @@ https://colab.research.google.com/github/deijany/order_k_index_powered_weighted_
 ---
 
 ## Contents
-- `accumulators_notebook.ipynb` — Notebook to generate the coefficients (c_k) used in the paper, and to compute the order–K index-powered weighted sums via cascaded accumulators.
+- `accumulators_notebook.ipynb` — Notebook to generate the coefficients \(c_k\) used in the paper, and to compute the order–K index-powered weighted sums via cascaded accumulators.
 ---
 
 ## How to cite
@@ -36,9 +36,10 @@ If you use this code in your research, please cite our paper:
   journal={IEEE Signal Processing Letters}, 
   title={Efficient Computation of Time-Index Powered Weighted Sums Using Cascaded Accumulators}, 
   year={2026},
-  volume={},
+  volume={33},
   number={},
-  pages={1-5},
+  pages={893-897},
   keywords={Polynomials;Real-time systems;Costs;Computational efficiency;Transfer functions;Table lookup;Registers;Convolution;Artificial intelligence;Time-frequency analysis;Accumulators;addition-chain exponentiation;binomial coefficients;Stirling numbers;time-index powered weighted sums},
   doi={10.1109/LSP.2026.3661843}}
+
 
